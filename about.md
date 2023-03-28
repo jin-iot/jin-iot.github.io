@@ -47,7 +47,7 @@ And has developed a lot of military software. <br/><br/>
 ### Personal projects
 
  - [Sentient project](https://github.com/hyper-level-nerds/sentient) - object serialization/network protocol definition toolset (still in progress)
-- [Nazgul project](https://github.com/hyper-level-nerds/nazgul) - Web framework for C++ (still in progress)
+ - [Nazgul project](https://github.com/hyper-level-nerds/nazgul) - Web framework for C++ (still in progress)
 
 ### Contact me
 
